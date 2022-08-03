@@ -1,0 +1,1 @@
+worker: python3 doggynyabot.py
